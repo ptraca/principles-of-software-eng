@@ -1,3 +1,3 @@
-Principles of Good Softaware Engineering
+### Principles of Good Softaware Engineering
 
-Curate list of links and articles on best practises for software engineering.
+Curated list of links and articles on best practises for masterful software engineering.

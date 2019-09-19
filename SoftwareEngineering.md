@@ -4,3 +4,8 @@
 
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 * [Source Making Design Patterns list](https://sourcemaking.com/design_patterns)
+
+### Code Review
+
+* [Code review patterns/Anti-patterns](https://www.evernote.com/l/ABY-Q0aIcnhBqLzOsub2zheYFFl_VIDX_9A)
+

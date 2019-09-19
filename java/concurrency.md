@@ -9,3 +9,5 @@
 * [Java Concurrency tutorial](http://tutorials.jenkov.com/java-concurrency/index.html)
 * [Guide for CompletableFuture](https://www.baeldung.com/java-completablefuture)
 * [Java 9 CompletableFuture API Improvements](https://www.baeldung.com/java-9-completablefuture)
+* [Understanding Java Memory Model](https://www.evernote.com/l/ABbPDqV1fthKGY3VegyqN6tbf01RjsY6xh4)
+* [Java 8 SE Language Specification](https://www.evernote.com/l/ABajqPQbOvRGmrAtIpmHV1dtUUsjWNA5apU)

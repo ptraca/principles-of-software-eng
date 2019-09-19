@@ -1,3 +1,3 @@
-Principles of Unit Testing
+Principles of Good Softaware Engineering
 
-Fast, isolated/independent, repeatable, self-validating and thorough/timely: principles of good unit testing.
+Curate list of links and articles on best practises for software engineering.
